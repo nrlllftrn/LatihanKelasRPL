@@ -6,5 +6,10 @@
 - Face Recognition
 - Real-time parent report
 
-### TODO
+### Kebutuhan Sistem
 - Windows Server
+- Android
+
+### TODO
+- Observasi
+- Wawancara
