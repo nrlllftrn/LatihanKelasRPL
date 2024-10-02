@@ -5,3 +5,6 @@
 ### Fitur Utama
 - Face Recognition
 - Real-time parent report
+
+### TODO
+- Windows Server
